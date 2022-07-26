@@ -229,6 +229,9 @@ h3{
   border: 2px solid black;
  }
 /* Blog page start */
+main{
+ text-align: center;
+}
 .container{
   display: inline-block;
   width: 400px;
@@ -270,13 +273,13 @@ p{
 }
 .image-two{
   width: 400px;
-  height: auto;
+  margin-left: -10px;
   
 }
 
- .parent-box{
-  width: 83%;
-  margin: 0 auto;
+ 
+ .child-box{
+  width: 400px;
  }
   a, .anchor{
   font-size: 19px;
